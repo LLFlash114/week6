@@ -1,10 +1,15 @@
-img{
-    float: left;
-}
+.target{
+    width:50px;
+    height:50px;
+    background-color: forestgreen;
+    position: absolute;
+    top: 0px;
+    right: 0px;
 
-.below {
-    clear: left;
-    background-color: red;
-}
-
+    }
+    .container
+    {
+    border: 2px gray solid;
+    position: relative;
+    }
 

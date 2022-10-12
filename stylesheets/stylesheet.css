@@ -1,25 +1,10 @@
-li a:hover{
-    color: pink;
+img{
+    float: left;
 }
 
-li a:link{
-    color: green;
-
+.below {
+    clear: left;
+    background-color: red;
 }
-
-li a:visited{
-    color: red;
-}
-
-li:first-child::first-letter{
-    font-size: 120%;
-    font-weight: bold;
-}
-
-a[title *="homepage"]
-{
-    background-color: yellow;
-}
-
 
 
